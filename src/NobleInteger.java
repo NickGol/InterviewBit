@@ -27,3 +27,4 @@ public class NobleInteger {
         NI.solve(ArrL);
     }
 }
+//qwertyuiop
