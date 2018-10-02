@@ -20,10 +20,11 @@ public class Comparators {
 
         Comparator<Person> comparator = Comparator.comparing(obj -> obj.getNum());
         //ArrL.sort(comparator);
-        Collections.sort(ArrL, comparator);
+
         //ArrL.sort(Comparator.comparing(Person::getNum));
         //ArrL.sort((a,b)->a.compareTo(b));
         Comparator<Person> pcomp = new PersonNameComparator().thenComparing(new PersonAgeComparator());
+        Collections.sort(ArrL, comparator);
         for (Person p: ArrL) {
             //System.out.print(p.getNum()+"     ");
             System.out.print(p+"     ");
