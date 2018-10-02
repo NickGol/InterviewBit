@@ -4,7 +4,30 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="a3eb3e13-3fc8-461d-a1bd-9e0a5fd49322" name="Default" comment="" />
+    <list default="true" readonly="true" id="a3eb3e13-3fc8-461d-a1bd-9e0a5fd49322" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterviewBit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comparators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Floyd_Cycle_detection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel_Bookings_Possible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthRowofPascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Max_Distance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumUnsortedSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NobleInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpiralOrderMatrixII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stream_API.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TripletsWithSumBetweenGivenRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wave_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company1/Solution.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -356,6 +379,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32911393" />
